@@ -9,4 +9,6 @@
 
 ## 🚀 visualize 60million words of Taosim for people to quicky learn throug these bible, by word cloud
 
-[<img src="https://freeimage.host/i/boZUN9" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+<p>
+ <img src="https://freeimage.host/i/boZUN9" alt="Visualized txt">
+</p>
