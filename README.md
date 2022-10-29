@@ -9,4 +9,4 @@
 
 ## visualize 60million words of Taoism txt for people to quicky learn through these bibles, by word cloud
 
-[<img src="https://user-images.githubusercontent.com/4074967/198817207-e41783f3-6096-4e3c-a39d-6f8b53561188.svg" alt="Deploy to Gatsby Cloud">]
+<img src="https://user-images.githubusercontent.com/4074967/198817207-e41783f3-6096-4e3c-a39d-6f8b53561188.svg" alt="Deploy to Gatsby Cloud">
